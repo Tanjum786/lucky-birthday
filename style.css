@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://cutefetti.com/wp-content/uploads/2021/04/surprise_candle_confetti.jpg);
+    
+}
+h1{
+    margin-top: 5rem;
+    text-align: center;
+    color: darkblue;
+    font-size: 45px;
+
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
+input,
+label{
+    display: block;
+    
+}
+input{
+    border-radius: 0.5rem;
+    position: relative;
+    left: 12rem;
+    margin-bottom:0.5rem;
+    width: 15rem;
+    height: 3rem; 
+    font-size: 1rem;
+}
+#check-number:hover{
+    background-color:lightskyblue;
+}
+#check-number{
+    background-color: blueviolet;
+    display: block;
+    margin-top: 1.5rem;
+    margin: auto;
+    margin-top: 2rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 1rem 0.5rem;
+}
+label{
+    text-align: center;
+    margin:1rem 0rem;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color:blue;
+}
+p:hover{
+    color: blue;
+}
+p{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color:lightcyan;
+    padding-bottom: 2rem;
+    border-radius: 1rem;
+}

@@ -9,4 +9,4 @@ it is a app of checking a birthday is lucky or not i have used 3 programing lang
 
 *Javascript 
 
-and i hosted ths app too
+and i hosted this app too

@@ -1,6 +1,6 @@
-body{
+html{
     background-image: url(https://cutefetti.com/wp-content/uploads/2021/04/surprise_candle_confetti.jpg);
-    
+    height: 100%;
 }
 h1{
     margin-top: 5rem;
